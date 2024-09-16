@@ -23,7 +23,7 @@ class MainBody extends React.Component {
     <div className='container row'>Students Enrolled </div>
     <Student experience={2} name="Kris Walley"><StudentReview/></Student>
     <Student experience={5} name="Angel Patrice"><StudentReview/></Student>
-    <Student experience={7} name="Rene Parker"  />
+    <Student experience={7} name="Rene Parker"><StudentReview/></Student>
     </div>
     );
   }
